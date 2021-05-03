@@ -83,7 +83,7 @@ const CountriesTable = ({ countries }) => {
         </button>
 
         <button
-          className={styles.heading_population}
+          className={styles.heading_region}
           onClick={() => setValueAndDirection("region")}
         >
           <div>Bölge</div>
